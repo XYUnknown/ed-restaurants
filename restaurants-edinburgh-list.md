@@ -54,3 +54,4 @@
 | Bain's Retro Sweets | 37 Grassmarket, Edinburgh EH1 2HS | [Link](https://www.bainsretrosweets.co.uk/site/) |
 | The Kilted Donut | 22 St Stephen St, Stockbridge, Edinburgh EH3 5AH | [Link](https://www.kilteddonut.com/) |
 | Overlangshaw Farmers Ice Cream | Grassmarket, Edinburgh, EH1 2AW | [Link](https://www.overlangshawfarm.co.uk/) |
+| Room Rumours Coffee | 25 East Market Street Arch 12 & 13, Edinburgh EH8 8FS | - | - |
