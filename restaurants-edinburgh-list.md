@@ -4,7 +4,7 @@
 | Restaurant Name | Location | Website | Phone Number/Remarks | Days Open |
 |-----------------|----------|---------|----------------------|-----------|
 | Kim's Mini Meals| 5 Buccleuch St, Newington, Edinburgh EH8 9JN | - | No Bookings | MTWRFS (before 8:30) |
-| Solti           | 10 Drummond St, Edinburgh EH8 9TU | [Link](https://solti.co.uk/) | Bookings not usually needed | MTWRFSU (before 10:00) |
+| Solti           | 10 Drummond St, Edinburgh EH8 9TU | [Link](https://www.soltiedinburgh.co.uk/) | Bookings not usually needed | MTWRFSU (before 10:00) |
 | Ikigai Ramen    | 13 W Crosscauseway, Newington, Edinburgh EH8 9JW | [Link](https://www.ikigairamen.co.uk/) | No Bookings | MTWRFSU (before 9:00) |
 | MACAU KITCHEN   | 93 St. Leonard's St, Edinburgh EH8 9QY | [Link](http://www.macaukitchen.uk/) | +447577667334, Bookings needed | WRFSU |
 | La Locanda      | 61 Cockburn St, Edinburgh EH1 1BS | [Link](http://www.lalocandaedinburgh.co.uk/) | Bookings needed | MTWRFSU |
