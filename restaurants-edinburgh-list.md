@@ -18,6 +18,11 @@
 | Satoru | 45 St Patrick Square, Newington, Edinburgh EH8 9ET | N/A | Bookings not usually needed | WRFSU |
 | Rice Noodle Bar | 11 S College St, Edinburgh EH8 9AA | N/A | Bookings not required | MWRFSU |
 | Ong Gie | 22a Brougham Pl, Edinburgh EH3 9JU | [Link](https://www.onggiedinburgh.com/)| 0131 229 0869, Booking Needed | MRFSU |
+| Tanjore | 6-8 Clerk St, Newington, Edinburgh EH8 9HX | [Link](https://tanjore.co.uk/menu/) | Bookings not usually needed | MTWRFSU |
+| Tasty Noodle | 36 Buccleuch St, Newington, Edinburgh EH8 9LP | N/A | No bookings | MTWRFU |
+| Cafe Andamiro | 113 Buccleuch St, Newington, Edinburgh EH8 9NG | [Link](http://www.cafe-andamiro.co.uk/starter) | Bookings not usually needed | TWRFS |
+| On Bap | 57 Clerk St, Newington, Edinburgh EH8 9JQ | N/A | No bookings | MWRFSU |
+| Pomelo Cafe | 21c Strathearn Rd, Edinburgh EH9 2AB, United Kingdom | [Link](https://pomelocafe.co.uk) | Bookings needed by Insta.| MTWRFSU |
 
 ## (More Distant) Cute Little Places
 | Restaurant Name | Location | Website | Comments | Days Open |
