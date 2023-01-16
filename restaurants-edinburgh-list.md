@@ -47,6 +47,7 @@
 | Mono | 85 South Bridge, Edinburgh, EH1 1HN | [Link](https://www.monorestaurant.co.uk/) | TWRFS |
 | Condita | 15 15 Salisbury Place, Edinburgh, EH9 1SL | [Link](https://www.condita.co.uk/) | TWRFS |
 | Taisteal | 1 Forth St, Edinburgh, EH1 3JX | [Link](https://www.taisteal.co.uk/) | TWRFS |
+| Fhior | 36 Broughton Street, Edinburgh, EH1 3SB | [Link](https://fhior.com/) | RFSU |
 
 
 ## Ice Cream and Desserts
